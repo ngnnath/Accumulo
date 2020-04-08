@@ -7,8 +7,13 @@
  Chaque pair clé/valeur à son propre label de sécurité limitant les requetes à ceux qui sont autorisés.
  Scalable
  Stable
+ ## Installation
+Télécharger une version http://cassandra.apache.org/download/
+
+    tar -xzvf apache-cassandra-3.6-bin.tar.gz
+
  
 [https://accumulo.apache.org/docs/2.x/getting-started/quickstart](https://accumulo.apache.org/docs/2.x/getting-started/quickstart)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjYwNTc5OV19
+eyJoaXN0b3J5IjpbMTYwNzczMzExOCwtNjA2NjA1Nzk5XX0=
 -->
