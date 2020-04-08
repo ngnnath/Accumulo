@@ -8,9 +8,10 @@
  Scalable
  Stable
 
-
+https://www.youtube.com/watch?v=bmVRo3qaYo8
+https://www.edureka.co/blog/install-hadoop-single-node-hadoop-cluster
 [https://accumulo.apache.org/docs/2.x/getting-started/quickstart](https://accumulo.apache.org/docs/2.x/getting-started/quickstart)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUyMjY1NzMsMTYwNzczMzExOCwtNj
-A2NjA1Nzk5XX0=
+eyJoaXN0b3J5IjpbLTExNjg0ODMyMjUsLTEyNDUyMjY1NzMsMT
+YwNzczMzExOCwtNjA2NjA1Nzk5XX0=
 -->
