@@ -8,10 +8,11 @@
  Scalable
  Stable
 
+https://github.com/apache/accumulo-docker
 https://www.youtube.com/watch?v=bmVRo3qaYo8
 https://www.edureka.co/blog/install-hadoop-single-node-hadoop-cluster
 [https://accumulo.apache.org/docs/2.x/getting-started/quickstart](https://accumulo.apache.org/docs/2.x/getting-started/quickstart)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg0ODMyMjUsLTEyNDUyMjY1NzMsMT
-YwNzczMzExOCwtNjA2NjA1Nzk5XX0=
+eyJoaXN0b3J5IjpbLTY4NDA0NzU5NCwtMTE2ODQ4MzIyNSwtMT
+I0NTIyNjU3MywxNjA3NzMzMTE4LC02MDY2MDU3OTldfQ==
 -->
